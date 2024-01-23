@@ -1,0 +1,252 @@
+ -- questus:
+queror queri questus sum: complain of  lament
+que: and
+aliqui  qua  quod: some  any  aliquis aliqua aliquid: someone
+ -- eram:
+asper  era  erum: rough  harsh  wild  uncultivated
+aurifer  era  erum: gold bearing
+tener  era  erum: tender
+ -- pharetra:
+pharetra  ae f : quiver
+pharetratus  a  um: wearing a quiver
+appono  ponere  posui  positum: place near  appoint
+ -- cum:
+accumbo  cumbere  cubui  cubitum: lie down  recline at dinner
+cum: with  prep    abl    when  since  although  conj   subj
+procumbo  cumbere  cubui  cubitum: to fall forwards  sink down  fall prostrate
+ -- protinus:
+protinus: at once  forthwith
+protego  tegere  texi  tectum: cover  conceal  protect
+proterve:  adv   boldly  impudently
+ -- ille:
+ille illa illud: that
+pervigil  ilis: keeping watch all night  awake
+vigil  ilis m : sentry  guard
+ -- soluta:
+solvo solvere solvi solutum: release  set sail
+solus  a  um: only  alone
+sol solis m : sun
+ -- legit:
+colligo  ere  legi  lectum: gather together  collect
+lego legere legi lectum: gather  choose  read
+lex legis f : law
+ -- in:
+Apollo  inis m : Apollo
+cardo  inis m : hinge
+carmen  inis n : song
+ -- exitium:
+exitium  i n : going out  destruction  death
+exigo  igere  egi  actum: drive out  collect
+exiguus  a  um: small  slight
+ -- spicula:
+spiculum  i n : sharp point  sting  arrow
+conspicio  spicere  spexi  spectum: notice  attract attention  catch the eye of
+despicio  spicere  spexi  spectum: look down on  be contemptuous of
+ -- facta:
+facio facere feci factum: do  make
+fio fieri factus sum: become  happen  be done
+fabrilis  e: skillfully made
+ -- meum:
+meus  a  um: my
+ego mei mihi me: I  me
+medico  are: treat  medicate  with   dye  with
+ -- lunavitque:
+luna  ae f : moon
+luno  are: bend like a half moon
+lucrosus  a  um: lucrative  profitable
+ -- genu:
+genu  us n : knee
+gena  ae f : cheek
+genitor  oris m : father
+ -- sinuosum:
+sinuosus  a  um: full of windings  sinuous
+sinus  us m : fold of a garment  lap  bay  gulf
+desino  sinere  sii  situm: leave off  cease
+ -- fortiter:
+fors fortis f : chance
+fortis  e: brave
+forte: by chance
+ -- arcum:
+arcus arcus m : bow  arch  arc
+arca  ae f : chest  money box
+arcanus  a  um: secret  mysterious  hidden
+ -- quod:
+aliqui  qua  quod: some  any  aliquis aliqua aliquid: someone
+qui quae quod: who  which  what
+quicumque quaecumque quodcumque: whoever  whatever
+ -- que:
+que: and
+queror queri questus sum: complain of  lament
+aliqui  qua  quod: some  any  aliquis aliqua aliquid: someone
+ -- canas:
+candidus  a  um: white  fair
+canesco  ere: become white or hoary  become old
+canis  is m  f : dog
+ -- vates:
+vates  is m : poet  bard
+invado  vadere  vasi  vasum: attack  assault  fall upon
+vacca  ae f : cow
+ -- accipe:
+accipio  cipere  cepi  ceptum: receive
+accendo  cendere  cendi  censum: kindle  set afire  make hotter  intensify  aggravate
+accumbo  cumbere  cubui  cubitum: lie down  recline at dinner
+ -- dixit:
+dico dicere dixi dictum: say  causam dicere  plead a case  diem dicere  appoint a day
+abdo  dere  didi  ditum: put away  withdraw  conceal  cover
+addo  dere  didi  ditum: give to
+ -- opus:
+opus operis n : work
+oppositus  a  um: hostile  opposed
+ops opis f : assistance  resources
+ -- me:
+ego mei mihi me: I  me
+medico  are: treat  medicate  with   dye  with
+medius  a  um: middle  central
+ -- miserum:
+miser misera miserum: wretched  pitiable
+admitto  mittere  misi  missum: send in  let in  allow
+committo  mittere  misi  missum: join  entrust to    dat    perform  do
+ -- certas:
+certus  a  um: sure  fixed
+cera  ae f : wax portrait bust
+accendo  cendere  cendi  censum: kindle  set afire  make hotter  intensify  aggravate
+ -- habuit:
+habeo habere habui habitum: have  hold
+habilis  e: suited
+cohaereo  haerere  haesi  haesum: cling to  adhere to
+ -- puer:
+puer pueri m : boy  slave
+puella  ae f : girl  girl friend
+pello pellere pepuli pulsum: strike  beat  push  drive
+ -- ille:
+ille illa illud: that
+pervigil  ilis: keeping watch all night  awake
+vigil  ilis m : sentry  guard
+ -- sagittas:
+sagitta  ae f : arrow
+resanesco  sanescere  sanui: be healed
+sacer sacra sacrum: holy  sacred
+ -- uror:
+uro urere ussi ustum: burn
+crus  uris n : shin  leg
+guttur  uris n : windpipe  throat
+ -- et:
+aries  etis m : ram
+et: and
+etiam: also  even
+ -- in:
+Apollo  inis m : Apollo
+cardo  inis m : hinge
+carmen  inis n : song
+ -- vacuo:
+vacuus  a  um: empty
+vacca  ae f : cow
+vaco vacare: be empty  open  unoccupied
+ -- pectore:
+pecten  inis m : comb
+pectus  oris n : chest  breast
+pecus  oris n : cattle  sheep beast  animal  herd
+ -- regnat:
+regno  are: be king  rule
+regnum  i n : kingdom  kingship
+rex regis m : king
+ -- amor:
+amor  oris m : love  lover
+amo  are: love  amans  ntis m  f : lover
+amator  oris m : lover
+ -- sex:
+sex: six
+desero  serere  serui  sertum: desert  abandon  leave
+deservio  servire: serve  be devoted to   dat
+ -- mihi:
+ego mei mihi me: I  me
+admitto  mittere  misi  missum: send in  let in  allow
+agmen  minis n : line of march
+ -- surgat:
+resurgo  surgere  surrexi  surrectum: rise again  reappear
+surgo surgere surrexi surrectum: rise
+surdus  a  um: deaf
+ -- opus:
+opus operis n : work
+oppositus  a  um: hostile  opposed
+ops opis f : assistance  resources
+ -- numeris:
+numero  are: count  count out as payment
+numerus  i m : number  amount  poetic meter
+numen  inis n : divine will  deity
+ -- in:
+Apollo  inis m : Apollo
+cardo  inis m : hinge
+carmen  inis n : song
+ -- quinque:
+quinque:  indecl   five
+quin:  adv   indeed  in fact   conj   so that   not   subj
+qui quae quod: who  which  what
+ -- residat:
+resido  sidere  sedi: sit down  sink down  shrink
+resisto  ere  stiti: stand still  halt  stop short
+res rei f : thing
+ -- ferrea:
+fero ferre tuli latum: bear  carry  endure
+ferreus  a  um: made of iron  hard hearted  cruel
+perfero  ferre  tuli  latum: carry through  deliver
+ -- cum:
+accumbo  cumbere  cubui  cubitum: lie down  recline at dinner
+cum: with  prep    abl    when  since  although  conj   subj
+procumbo  cumbere  cubui  cubitum: to fall forwards  sink down  fall prostrate
+ -- vestris:
+vester vestra vestrum: your
+vestigium  i n : footstep  footprint  track
+vestis  is f : garment  robe  clothing
+ -- bella:
+bellum  i n : war
+bellus  a  um: pretty
+beatus  a  um: happy  blessed  prosperous  fortunate
+ -- valete:
+valeo valere valui valitum: be strong  excel  be valid  prevail  vale
+valles  is f : vale  valley
+vallum  i n : palisade
+ -- modis:
+modicus  a  um: moderate  limited
+moderabilis  e: controllable
+modestus  a  um: moderate  respectful  unassuming
+ -- cingere:
+cingo cingere cinxi cinctum: encircle  surround  gird
+recingo  cingere  cinxi  cinctum: ungird  loosen
+accipio  cipere  cepi  ceptum: receive
+ -- litorea:
+litoreus  a  um: of the seashore
+lis litis f : lawsuit  quarrel
+littera  ae f : letter   pl   literature
+ -- flaventia:
+flavens  ntis: golden  yellow
+flavus  a  um: golden  fair haired  blonde
+flagito  are: ask for repeatedly
+ -- tempora:
+tempe:  indecl  noun  n  pl   the Vale of Tempe in Thessaly  any pleasant valley
+tempero  are: set bounds  control  regulate
+templum  i n : consecrated ground  temple
+ -- myrto:
+myrtus  i f : myrtle
+Accius  ii m : Accius
+acervus  i m : heap  pile
+ -- musa:
+mustum  i n : unfermented grape juice  must
+mulier  eris f : woman
+multus  a  um: much  many  multo  by far
+ -- per:
+depereo  perire  perii: destroy completely
+per: through   acc
+perago  agere  egi  actum: pass through  chase  complete
+ -- undenos:
+undeni  ae  a: eleven each  eleven at a time
+unda  ae f : wave  flowing water  water
+unguis  is m : fingernail  claw  talon
+ -- emodulanda:
+emodulor  ari: measure out  put into meter
+emo emere emi emptum: buy  purchase
+adimo  imere  emi  emptum: remove
+ -- pedes:
+pes pedis m : foot
+depereo  perire  perii: destroy completely
+pango pangere pepigi pactum: fasten  fix  settle for  agree upon  contract for
